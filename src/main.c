@@ -63,9 +63,6 @@ int board_main() {
     return 0;
 }
 
-                    //    scanf("%d", &egg);
-                    //    if (egg == 1) {
-                    //    printf("Andrey Shiryaew");
 
 void info_print() {
 
